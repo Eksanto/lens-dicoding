@@ -1,2 +1,3 @@
 # lens-dicoding
-Membuat lens menggunakan Lens Studio
+Belajar Membuat Augmented Reality dengan Lens Studio - Pemula
+dicoding academy | dicoding.com
